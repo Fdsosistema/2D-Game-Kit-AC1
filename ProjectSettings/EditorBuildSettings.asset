@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LevelBizarro.unity
     guid: e99537664a05bfc49acafe2813a024c1
+  - enabled: 1
+    path: Assets/Zone-mod.unity
+    guid: 9ad8a3fea84600b4d8a94cad9f000dd7
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: 9ded3de915959254db316e5abf9f087e
   m_configObjects: {}
