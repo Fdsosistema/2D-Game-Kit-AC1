@@ -98,6 +98,7 @@ namespace Gamekit2D
             {
                 m_CurrentHealth -= damager.damage;
                 OnHealthSet.Invoke(this);
+                Debug.Log(m_CurrentHealth);
             }
 
             m_DamageDirection = transform.position + (Vector3)centreOffset - damager.transform.position;
