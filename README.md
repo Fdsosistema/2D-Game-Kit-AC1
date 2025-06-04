@@ -1,7 +1,14 @@
-# teste
+# AC1 de Games
 
-## teste2
+## Feito por: Ryu, Lucas C. e Gabriel C.
+
+Buscamos trazer uma experiencia mais desfiadora, que envolve o jogador a fazer jogadas arriscadas.
+
+Estilo plataforma.
 
 Projeto para a aula de Unity utilizando 2D GameKit.
 
-https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098
+Link para o Esboço da fase: https://www.figma.com/design/YZSSbmbCbcmyErkYGajnH8/Untitled?node-id=0-1&t=3sDtFFN1Fj3eVdD8-1
+
+
+********
